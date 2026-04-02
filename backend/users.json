@@ -1,0 +1,72 @@
+[
+  {
+    "_id": { "$oid": "660000000000000000000101" },
+    "name": "Dr. Arjun Mehta",
+    "email": "arjun.mehta@medibook.com",
+    "password": "$2a$12$0Y92JPVbnDr8C38nzZ02he4q.M8yZK6nG32fYWFlZUJaHQoejWLjS",
+    "role": "doctor"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000102" },
+    "name": "Dr. Priya Nair",
+    "email": "priya.nair@medibook.com",
+    "password": "$2a$12$0Y92JPVbnDr8C38nzZ02he4q.M8yZK6nG32fYWFlZUJaHQoejWLjS",
+    "role": "doctor"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000103" },
+    "name": "Dr. Rohan Kulkarni",
+    "email": "rohan.kulkarni@medibook.com",
+    "password": "$2a$12$0Y92JPVbnDr8C38nzZ02he4q.M8yZK6nG32fYWFlZUJaHQoejWLjS",
+    "role": "doctor"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000104" },
+    "name": "Dr. Neha Sharma",
+    "email": "neha.sharma@medibook.com",
+    "password": "$2a$12$0Y92JPVbnDr8C38nzZ02he4q.M8yZK6nG32fYWFlZUJaHQoejWLjS",
+    "role": "doctor"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000105" },
+    "name": "Dr. Kiran Rao",
+    "email": "kiran.rao@medibook.com",
+    "password": "$2a$12$0Y92JPVbnDr8C38nzZ02he4q.M8yZK6nG32fYWFlZUJaHQoejWLjS",
+    "role": "doctor"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000106" },
+    "name": "Dr. Sneha Iyer",
+    "email": "sneha.iyer@medibook.com",
+    "password": "$2a$12$0Y92JPVbnDr8C38nzZ02he4q.M8yZK6nG32fYWFlZUJaHQoejWLjS",
+    "role": "doctor"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000201" },
+    "name": "Amit Verma",
+    "email": "amit.verma@gmail.com",
+    "password": "$2a$12$5UBwCHgsZg3YiL8pVb/CZO5R0kTEEyNUkW/H.1.jnmRKhfFtieRBG",
+    "role": "patient"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000202" },
+    "name": "Riya Patel",
+    "email": "riya.patel@gmail.com",
+    "password": "$2a$12$5UBwCHgsZg3YiL8pVb/CZO5R0kTEEyNUkW/H.1.jnmRKhfFtieRBG",
+    "role": "patient"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000203" },
+    "name": "Naveen Kumar",
+    "email": "naveen.kumar@gmail.com",
+    "password": "$2a$12$5UBwCHgsZg3YiL8pVb/CZO5R0kTEEyNUkW/H.1.jnmRKhfFtieRBG",
+    "role": "patient"
+  },
+  {
+    "_id": { "$oid": "660000000000000000000301" },
+    "name": "System Admin",
+    "email": "admin@medibook.com",
+    "password": "$2a$12$.8GPw6u/KNwB6/Au7q3CZ.wk6zaNShWeO9MXIchkNfX.meTKBFhKa",
+    "role": "admin"
+  }
+]

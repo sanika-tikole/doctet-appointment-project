@@ -1,0 +1,28 @@
+﻿@import "tailwindcss";
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F3F4F6;
+}
+::-webkit-scrollbar-thumb {
+  background: #E49BA6;
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #540863;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Remove default outline, use custom focus ring via Tailwind */
+* {
+  box-sizing: border-box;
+}
+
